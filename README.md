@@ -20,13 +20,6 @@ smoodify is a web application built using the MEAN stack. It makes use of the fo
 * [sentiment](https://www.npmjs.com/package/sentiment) to analyze sentiment in lyrics
 * [node-gracenote](https://github.com/ddanninger/node-gracenote) to analyze music
 
-## [Contributing](CONTRIBUTING.md)
-
-## Contributors
-1. [Olina Stathopoulou](https://github.com/olinastath) :sparkles:
-2. [Ryan Chau](https://github.com/rchau0623) :crayon:
-3. [Peter Kim](https://github.com/peterckim) 
-4. [Andrea Waxman](https://github.com/andreawaxman) 
 
 ## Requirements
 All requirements for building the app are included in the `package.json` file and can be installed by simply navigating to the app's directory and running `npm install`.
